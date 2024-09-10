@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chescgra.github.io/sitemap.html.gz
+Sitemap: https://chescgra.github.io/app/sitemap.html.gz
+Sitemap: https://chescgra.github.io/assets/sitemap.html.gz
+Sitemap: https://chescgra.github.io/css/sitemap.html.gz
+Sitemap: https://chescgra.github.io/includes/sitemap.html.gz
+Sitemap: https://chescgra.github.io/item/sitemap.html.gz
+Sitemap: https://chescgra.github.io/src/sitemap.html.gz
